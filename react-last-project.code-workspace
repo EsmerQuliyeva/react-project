@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../my-app/public"
+		},
+		{
+			"path": "../my-app/src"
+		},
+		{
+			"path": "../my-app/build"
+		},
+		{
+			"path": "../my-app/node_modules"
+		}
+	]
+}
